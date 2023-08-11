@@ -25,5 +25,5 @@ Therapist Portal : https://provider.dev-insights.restoreskills.com
 
 **Client:** React, Redux, TailwindCSS
 
-**Server:** Node, Express
+**Server:** Java, Spring Boot
 
